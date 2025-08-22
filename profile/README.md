@@ -1,4 +1,4 @@
-## Coco de Mare CPU family
+## Coco-de-Mer CPU family
 
 CdM is a family of 8- and 16-bit CPU implemented in logical circuit emulator tool [Logisim](https://cburch.com/logisim/).  
 
